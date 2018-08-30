@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Informasi">
+            <menu>
+                <item
+                    android:id="@+id/nav_hospital_search"
+                    android:icon="@drawable/ic_menu_camera"
+                    android:title="Cari Rumah Sakit" />
+
+                <item
+                    android:id="@+id/nav_hospital_information"
+                    android:icon="@drawable/ic_menu_gallery"
+                    android:title="Informasi Rumah Sakit" />
+
+                <item
+                    android:id="@+id/nav_infectious_disease_information"
+                    android:icon="@drawable/ic_menu_slideshow"
+                    android:title="Informasi Penyakit Menular" />
+
+                <item
+                    android:id="@+id/nav_non_communicable_diseases_information"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="Informasi Penyakit tidak Menular" />
+
+                <item
+                    android:id="@+id/nav_informative_and_preventive_efforts"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="Upaya Informatif dan Preventive" />
+
+                <item
+                    android:id="@+id/nav_apps_about"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="Tentang Aplikasi" />
+            </menu>
+        </item>
+    </group>
+
+
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_menu_share"
+        android:title="Share" />
+    <item
+        android:id="@+id/nav_send"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Send" />
+</menu>
