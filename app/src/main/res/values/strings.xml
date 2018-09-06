@@ -6,4 +6,9 @@
     <string name="nav_header_subtitle">www.diskes.jabarprov.go.id</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+
+    <string name="failure_to_retrieve">Failure to retrieve the navigation route!</string>
+    <string name="mock_location_title">Fake device location</string>
+    <string name="acces_token">pk.eyJ1IjoieWFzc3VhMTEyIiwiYSI6ImNqbGhsN3NlMjFqaGgzd21pNnFybjA2cW0ifQ.j9kT8UrGfM_ZaDaA-YCyEw</string>
+
 </resources>

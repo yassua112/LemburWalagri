@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "RSUD hasan sadikin",
+        "alamat": "Jalan Mochammad Toha No.369, Ciseureuh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59838104248047,
+          -6.897882550345663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "St. Joseph's Hospital",
+        "alamat": "Jalan Cikutra No.7, Cikutra"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6129776,
+          -6.9567045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "RSKB Halmahera Siaga",
+        "alamat": "Jalan R.E. Martadinata No.28, Citarum"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6156822,
+          -6.906702800000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "Santo Borromeus Hospital",
+        "alamat": "Jalan Ir. H.Djuanda No.100, Lebakgede"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6137042,
+           -6.893989299999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "Muhammadiyah Hospital of Bandung",
+        "alamat": "Jalan K.H. Ahmad Dahlan No.53, Turangga"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6231922 ,
+        -6.933608699999999
+        ]
+      }
+    }
+  ]
+}
+
+
+
+
